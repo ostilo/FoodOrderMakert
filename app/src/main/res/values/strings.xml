@@ -3,4 +3,21 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="four">FOUR</string>
+    <string name="just_for_you">Just for You</string>
+    <string name="page_one_text">A food is something that provides nutrients. Nutrients are substances that provide: energy for activity,
+        growth, and all functions of the body such as breathing, digesting food, and keeping warm; materials for the growth and
+        repair of the body, and for keeping the immune system healthy.
+    </string>
+    <string name="page_two_text">Every cell in the body depends on a continuous supply of calories and nutrients, whether obtained
+        through food, IV nutrients, or tube feedings. Eating and food, however, also have symbolic meanings associated with love,
+        sensuality, comfort, stress reduction, security, reward, and power.</string>
+    <string name="real_time_deal">Real-time Deal</string>
+    <string name="ultra_low">Ultra Low</string>
+    <string name="page_three_text">Foods are directly related to our body and mental and social health because each food or liquid
+        contains particular nutrition such as carbohydrates, protein, vitamins, minerals, fats, etc, which are very necessary for our
+        physical and mental growth.</string>
 </resources>
